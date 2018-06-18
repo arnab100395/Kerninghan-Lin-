@@ -1,2 +1,2 @@
 # Kerninghan-Lin-
-This repository contains the program written in C and Matlab for Kerninghan Lin The C code consists of a 2 way implementation of a kerninghan lin algorithm. The input to the c code consisted of  the total number of nodes and the pins that are connected to each other.
+This repository contains the program written in C and Matlab for Kerninghan Lin The C code consists of a 2 way implementation of a kerninghan lin algorithm. The input to the c code consisted of  the total number of nodes and the pins that are connected to each other. The MATLAB code is the algorithm for a 5- way-even and a 3-2-1 way implementation of the Kerninghan Lin Algorithm.  A netlist was provided which consists of 20 gates and 100 nets. 
